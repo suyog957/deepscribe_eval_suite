@@ -1,0 +1,12 @@
+{
+  "rougeL_mean": 0.19910826081541622,
+  "bleu_mean": 8.277695835026412,
+  "n": 250,
+  "quality_mean": 0.828,
+  "missing_mean": 0.86,
+  "halluc_mean": 0.0,
+  "quality_ci": [
+    0.3999999999999999,
+    1.0
+  ]
+}

@@ -1,0 +1,13 @@
+datasets>=2.19.0
+transformers>=4.44.0
+tqdm
+nltk
+rouge-score
+bert-score
+typer
+transformers 
+datasets
+accelerate 
+bitsandbytes 
+tqdm
+
